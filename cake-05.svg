@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900">
+<rect width="900" height="900" rx="60" fill="#fff0d7"/>
+<circle cx="750" cy="150" r="95" fill="#ffd34d" opacity=".7"/>
+<circle cx="150" cy="720" r="120" fill="#fff" opacity=".55"/>
+<g transform="translate(160 165)">
+<ellipse cx="290" cy="500" rx="260" ry="55" fill="#000" opacity=".10"/>
+<rect x="70" y="280" width="440" height="190" rx="28" fill="#f28b24" stroke="#b94b20" stroke-width="10"/>
+<path d="M70 330 Q180 390 290 325 T510 330 L510 285 Q400 340 290 285 T70 285Z" fill="#fff" stroke="#b94b20" stroke-width="8"/>
+<path d="M70 285 Q290 210 510 285 L510 350 Q290 270 70 350Z" fill="#fff" stroke="#b94b20" stroke-width="10"/>
+<path d="M95 295 Q145 210 195 295 Q245 200 295 295 Q345 205 395 295 Q445 210 490 295" fill="none" stroke="#f28b24" stroke-width="24" stroke-linecap="round"/>
+<circle cx="170" cy="220" r="32" fill="#ffd34d" stroke="#b94b20" stroke-width="7"/>
+<circle cx="290" cy="205" r="32" fill="#f28b24" stroke="#b94b20" stroke-width="7"/>
+<circle cx="410" cy="220" r="32" fill="#ffd34d" stroke="#b94b20" stroke-width="7"/>
+<path d="M110 470v75M210 470v75M310 470v75M410 470v75" stroke="#b94b20" stroke-width="9" opacity=".65"/>
+</g>
+<text x="60" y="775" font-family="Arial" font-size="44" font-weight="800" fill="#b94b20">NZZWACAKE</text>
+<text x="60" y="825" font-family="Arial" font-size="28" fill="#b94b20">ORANGE CREAM</text>
+</svg>
