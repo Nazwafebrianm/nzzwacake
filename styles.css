@@ -49,9 +49,9 @@ h2{font-size:clamp(31px,3.8vw,50px)}
 .controls{display:flex;gap:8px}
 .controls button{border:1px solid #e7c5c8;color:#7a1e2a;background:#fff;border-radius:50%;width:40px;height:40px;font-size:19px;cursor:pointer}
 .controls button:hover{background:#a82a38;color:#fff}
-.viewport{overflow:hidden;margin-right:calc(max(7vw,24px) * -1)}
+.viewport{overflow:hidden}
 .track{display:flex;gap:18px;transition:transform .45s}
-.video-card{flex:0 0 min(410px,80vw);border-radius:13px;overflow:hidden;border:1px solid #f0dbdc;background:#fff}
+.video-card{flex:0 0 min(410px,100%);border-radius:13px;overflow:hidden;border:1px solid #f0dbdc;background:#fff}
 .frame{aspect-ratio:16/9;background:#4c1f27;position:relative}
 .frame iframe{width:100%;height:100%;border:0}
 .video-text{padding:16px}
